@@ -80,7 +80,7 @@ All you need is a modern web browser.
     ```bash
     cd Interactive-Profile-Card
     ```
-3.  Open the `index.html` file directly in your browser.
+3.  Open the `ucok.html` file directly in your browser.
 
 ---
 
@@ -89,7 +89,6 @@ All you need is a modern web browser.
 **Fruatre Maou**
 
 -   GitHub: [@FruatreMaou](https://github.com/FruatreMaou)
--   Portfolio v2: [Link to your Aurora Style portfolio]
 
 ---
 
