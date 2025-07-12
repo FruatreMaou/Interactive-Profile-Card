@@ -26,7 +26,7 @@ The **Interactive Profile Card** is a creative take on the personal portfolio. I
 
 This project focuses heavily on **CSS transitions, animations, and modern UI effects** to deliver a visually engaging presentation.
 
-Sorry if I'm in a bad phase studying for this.
+sorry it's bad, because I'm still learning
 ---
 
 ## 🚀 Key Features
