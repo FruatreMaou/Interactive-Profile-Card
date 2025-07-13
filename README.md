@@ -97,5 +97,6 @@ All you need is a modern web browser.
 This project is open-source. Feel free to use it as an inspiration or a starting point for your own creative projects.
 
 <div align="center">
-  <em>If you like this project, please consider giving it a ⭐️!</em>
+  <em>If you like this project, please consider giving it a ⭐️!
+  created readme by gpt ygy</em>
 </div>
